@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45b67aea-0c0c-4ed2-b78b-819fdee71bbe" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/../NewModel_v10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewModel_v10/data_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TransFG/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT/train_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT/utils/data_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT/utils/data_split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT/utils/data_utils_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT/utils/dataset_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_DataAugmentation/.idea/ViT_DataAugmentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_DataAugmentation/DataAugmentation/DA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_DataAugmentation/DataAugmentation/MultiHeadVoting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_DataAugmentation/DataAugmentation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_DataAugmentation/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_DataAugmentation/train_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_FCA/.idea/ViT_FCA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_FCA/FCA_Attention/FCA_Attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_FCA/train_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_GATV2/.idea/ViT_GATV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_GATV2/train_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_LVS/.idea/ViT_LVS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_LVS/intro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_LVS/models/JudgeVoting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_LVS/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ViT_LVS/train_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual/HeatMap/grad_cam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual/HeatMap/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual/HeatMap/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual/Models/ViT/configs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Visual/Models/ViT/modeling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addRain/.idea/addRain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addRain/addRain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../addRain/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ACC-ViT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ACC-ViT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FFVT_DA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/DA_Block.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/split_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/data_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAVT/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HAVT/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HAVT/vis.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HAVT/vis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IELT-main/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IELT-main/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734490902.zjc-Precision-7920-Tower.718259.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491046.zjc-Precision-7920-Tower.718608.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491345.zjc-Precision-7920-Tower.719190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491963.zjc-Precision-7920-Tower.719873.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492140.zjc-Precision-7920-Tower.720266.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492561.zjc-Precision-7920-Tower.720777.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492633.zjc-Precision-7920-Tower.721190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734493979.zjc-Precision-7920-Tower.722478.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734530736.zjc-Precision-7920-Tower.5638.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734536910.zjc-Precision-7920-Tower.8568.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537453.zjc-Precision-7920-Tower.9459.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537708.zjc-Precision-7920-Tower.10078.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537740.zjc-Precision-7920-Tower.10417.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537844.zjc-Precision-7920-Tower.10782.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537977.zjc-Precision-7920-Tower.11278.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734574473.zjc-Precision-7920-Tower.24646.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734575425.zjc-Precision-7920-Tower.25691.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597179.zjc-Precision-7920-Tower.158006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597316.zjc-Precision-7920-Tower.158327.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597475.zjc-Precision-7920-Tower.158797.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597511.zjc-Precision-7920-Tower.159079.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610557.zjc-Precision-7920-Tower.189014.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610647.zjc-Precision-7920-Tower.189425.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610678.zjc-Precision-7920-Tower.189771.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734611445.zjc-Precision-7920-Tower.190689.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612518.zjc-Precision-7920-Tower.192573.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612878.zjc-Precision-7920-Tower.193110.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734613195.zjc-Precision-7920-Tower.193810.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734621169.zjc-Precision-7920-Tower.201350.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734795149.zjc-Precision-7920-Tower.330488.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734795261.zjc-Precision-7920-Tower.331006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734797686.zjc-Precision-7920-Tower.333827.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734799572.zjc-Precision-7920-Tower.335749.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800673.zjc-Precision-7920-Tower.336994.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800710.zjc-Precision-7920-Tower.337275.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800758.zjc-Precision-7920-Tower.337566.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734801833.zjc-Precision-7920-Tower.338996.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734801986.zjc-Precision-7920-Tower.339504.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802102.zjc-Precision-7920-Tower.339916.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802134.zjc-Precision-7920-Tower.340262.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802193.zjc-Precision-7920-Tower.340600.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802317.zjc-Precision-7920-Tower.341096.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802451.zjc-Precision-7920-Tower.341535.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734851732.zjc-Precision-7920-Tower.384805.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734854996.zjc-Precision-7920-Tower.394016.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734855024.zjc-Precision-7920-Tower.394427.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734869367.zjc-Precision-7920-Tower.447333.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871217.zjc-Precision-7920-Tower.449429.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871260.zjc-Precision-7920-Tower.449858.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871393.zjc-Precision-7920-Tower.450397.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871423.zjc-Precision-7920-Tower.450704.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871769.zjc-Precision-7920-Tower.451383.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734872524.zjc-Precision-7920-Tower.452685.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734872966.zjc-Precision-7920-Tower.453368.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734873379.zjc-Precision-7920-Tower.454055.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734873471.zjc-Precision-7920-Tower.454586.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734874353.zjc-Precision-7920-Tower.456011.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734874442.zjc-Precision-7920-Tower.456435.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734880202.zjc-Precision-7920-Tower.464168.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734880247.zjc-Precision-7920-Tower.464483.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734880275.zjc-Precision-7920-Tower.464843.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel/logs/AgriculturalDisease_LOG/events.out.tfevents.1734880586.zjc-Precision-7920-Tower.466198.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734490902.zjc-Precision-7920-Tower.718259.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491046.zjc-Precision-7920-Tower.718608.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491345.zjc-Precision-7920-Tower.719190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491963.zjc-Precision-7920-Tower.719873.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492140.zjc-Precision-7920-Tower.720266.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492561.zjc-Precision-7920-Tower.720777.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492633.zjc-Precision-7920-Tower.721190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734493979.zjc-Precision-7920-Tower.722478.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734530191.zjc-Precision-7920-Tower.130325.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v1/logs/AgriculturalDisease_LOG/events.out.tfevents.1734530348.zjc-Precision-7920-Tower.136272.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v10/models/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v10/models/modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v10/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v10/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734490902.zjc-Precision-7920-Tower.718259.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491046.zjc-Precision-7920-Tower.718608.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491345.zjc-Precision-7920-Tower.719190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491963.zjc-Precision-7920-Tower.719873.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492140.zjc-Precision-7920-Tower.720266.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492561.zjc-Precision-7920-Tower.720777.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492633.zjc-Precision-7920-Tower.721190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734493979.zjc-Precision-7920-Tower.722478.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734530736.zjc-Precision-7920-Tower.5638.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734536910.zjc-Precision-7920-Tower.8568.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537453.zjc-Precision-7920-Tower.9459.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537708.zjc-Precision-7920-Tower.10078.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537740.zjc-Precision-7920-Tower.10417.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537844.zjc-Precision-7920-Tower.10782.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537977.zjc-Precision-7920-Tower.11278.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734574473.zjc-Precision-7920-Tower.24646.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734575425.zjc-Precision-7920-Tower.25691.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597179.zjc-Precision-7920-Tower.158006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597316.zjc-Precision-7920-Tower.158327.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597475.zjc-Precision-7920-Tower.158797.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597511.zjc-Precision-7920-Tower.159079.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610557.zjc-Precision-7920-Tower.189014.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610647.zjc-Precision-7920-Tower.189425.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610678.zjc-Precision-7920-Tower.189771.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734611445.zjc-Precision-7920-Tower.190689.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612518.zjc-Precision-7920-Tower.192573.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612878.zjc-Precision-7920-Tower.193110.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734613195.zjc-Precision-7920-Tower.193810.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v2/logs/AgriculturalDisease_LOG/events.out.tfevents.1734621169.zjc-Precision-7920-Tower.201350.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734490902.zjc-Precision-7920-Tower.718259.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491046.zjc-Precision-7920-Tower.718608.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491345.zjc-Precision-7920-Tower.719190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491963.zjc-Precision-7920-Tower.719873.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492140.zjc-Precision-7920-Tower.720266.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492561.zjc-Precision-7920-Tower.720777.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492633.zjc-Precision-7920-Tower.721190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734493979.zjc-Precision-7920-Tower.722478.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734530736.zjc-Precision-7920-Tower.5638.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734536910.zjc-Precision-7920-Tower.8568.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537453.zjc-Precision-7920-Tower.9459.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537708.zjc-Precision-7920-Tower.10078.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537740.zjc-Precision-7920-Tower.10417.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537844.zjc-Precision-7920-Tower.10782.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537977.zjc-Precision-7920-Tower.11278.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734574473.zjc-Precision-7920-Tower.24646.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734575425.zjc-Precision-7920-Tower.25691.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597179.zjc-Precision-7920-Tower.158006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597316.zjc-Precision-7920-Tower.158327.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597475.zjc-Precision-7920-Tower.158797.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597511.zjc-Precision-7920-Tower.159079.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610557.zjc-Precision-7920-Tower.189014.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610647.zjc-Precision-7920-Tower.189425.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610678.zjc-Precision-7920-Tower.189771.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734611445.zjc-Precision-7920-Tower.190689.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612518.zjc-Precision-7920-Tower.192573.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612878.zjc-Precision-7920-Tower.193110.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734613195.zjc-Precision-7920-Tower.193810.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734621169.zjc-Precision-7920-Tower.201350.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734795149.zjc-Precision-7920-Tower.330488.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734795261.zjc-Precision-7920-Tower.331006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734797686.zjc-Precision-7920-Tower.333827.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734799572.zjc-Precision-7920-Tower.335749.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800673.zjc-Precision-7920-Tower.336994.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800710.zjc-Precision-7920-Tower.337275.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800758.zjc-Precision-7920-Tower.337566.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734801833.zjc-Precision-7920-Tower.338996.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734801986.zjc-Precision-7920-Tower.339504.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802102.zjc-Precision-7920-Tower.339916.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802134.zjc-Precision-7920-Tower.340262.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802193.zjc-Precision-7920-Tower.340600.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802317.zjc-Precision-7920-Tower.341096.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v3/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802451.zjc-Precision-7920-Tower.341535.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734490902.zjc-Precision-7920-Tower.718259.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491046.zjc-Precision-7920-Tower.718608.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491345.zjc-Precision-7920-Tower.719190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734491963.zjc-Precision-7920-Tower.719873.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492140.zjc-Precision-7920-Tower.720266.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492561.zjc-Precision-7920-Tower.720777.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734492633.zjc-Precision-7920-Tower.721190.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734493979.zjc-Precision-7920-Tower.722478.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734530736.zjc-Precision-7920-Tower.5638.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734536910.zjc-Precision-7920-Tower.8568.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537453.zjc-Precision-7920-Tower.9459.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537708.zjc-Precision-7920-Tower.10078.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537740.zjc-Precision-7920-Tower.10417.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537844.zjc-Precision-7920-Tower.10782.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734537977.zjc-Precision-7920-Tower.11278.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734574473.zjc-Precision-7920-Tower.24646.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734575425.zjc-Precision-7920-Tower.25691.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597179.zjc-Precision-7920-Tower.158006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597316.zjc-Precision-7920-Tower.158327.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597475.zjc-Precision-7920-Tower.158797.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734597511.zjc-Precision-7920-Tower.159079.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610557.zjc-Precision-7920-Tower.189014.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610647.zjc-Precision-7920-Tower.189425.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734610678.zjc-Precision-7920-Tower.189771.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734611445.zjc-Precision-7920-Tower.190689.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612518.zjc-Precision-7920-Tower.192573.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734612878.zjc-Precision-7920-Tower.193110.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734613195.zjc-Precision-7920-Tower.193810.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734621169.zjc-Precision-7920-Tower.201350.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734795149.zjc-Precision-7920-Tower.330488.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734795261.zjc-Precision-7920-Tower.331006.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734797686.zjc-Precision-7920-Tower.333827.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734799572.zjc-Precision-7920-Tower.335749.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800673.zjc-Precision-7920-Tower.336994.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800710.zjc-Precision-7920-Tower.337275.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734800758.zjc-Precision-7920-Tower.337566.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734801833.zjc-Precision-7920-Tower.338996.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734801986.zjc-Precision-7920-Tower.339504.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802102.zjc-Precision-7920-Tower.339916.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802134.zjc-Precision-7920-Tower.340262.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802193.zjc-Precision-7920-Tower.340600.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802317.zjc-Precision-7920-Tower.341096.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734802451.zjc-Precision-7920-Tower.341535.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734851732.zjc-Precision-7920-Tower.384805.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734854996.zjc-Precision-7920-Tower.394016.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734855024.zjc-Precision-7920-Tower.394427.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734869367.zjc-Precision-7920-Tower.447333.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871217.zjc-Precision-7920-Tower.449429.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871260.zjc-Precision-7920-Tower.449858.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871393.zjc-Precision-7920-Tower.450397.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871423.zjc-Precision-7920-Tower.450704.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734871769.zjc-Precision-7920-Tower.451383.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734872524.zjc-Precision-7920-Tower.452685.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734872966.zjc-Precision-7920-Tower.453368.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734873379.zjc-Precision-7920-Tower.454055.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734873471.zjc-Precision-7920-Tower.454586.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734874353.zjc-Precision-7920-Tower.456011.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734874442.zjc-Precision-7920-Tower.456435.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734882025.zjc-Precision-7920-Tower.467888.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734882379.zjc-Precision-7920-Tower.468612.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734882429.zjc-Precision-7920-Tower.468992.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734882508.zjc-Precision-7920-Tower.469442.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734882558.zjc-Precision-7920-Tower.469835.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734882941.zjc-Precision-7920-Tower.470756.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734883750.zjc-Precision-7920-Tower.472136.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734885545.zjc-Precision-7920-Tower.474216.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734885593.zjc-Precision-7920-Tower.474545.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734928958.zjc-Precision-7920-Tower.505648.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734929856.zjc-Precision-7920-Tower.507592.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734929898.zjc-Precision-7920-Tower.507935.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v4/logs/AgriculturalDisease_LOG/events.out.tfevents.1734929967.zjc-Precision-7920-Tower.508292.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v5/logs/AgriculturalDisease_LOG/events.out.tfevents.1735094370.zjc-Precision-7920-Tower.966305.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v5/logs/CUB_LOG/events.out.tfevents.1735094093.zjc-Precision-7920-Tower.965450.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v5/logs/CUB_LOG/events.out.tfevents.1735094249.zjc-Precision-7920-Tower.965816.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v5/logs/CUB_LOG/events.out.tfevents.1735094394.zjc-Precision-7920-Tower.966570.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/AgriculturalDisease_LOG/events.out.tfevents.1735183713.zyj-Precision-7920-Tower.1015786.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/AppleLeaf9_LOG/events.out.tfevents.1735392863.zjc-Precision-7920-Tower.1301281.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/AppleLeaf9_LOG/events.out.tfevents.1735392881.zjc-Precision-7920-Tower.1301334.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/AppleLeaf9_LOG/events.out.tfevents.1735392951.zjc-Precision-7920-Tower.1301383.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/PlantLeave_LOG/events.out.tfevents.1735568212.zjc-Precision-7920-Tower.1364544.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/PlantLeave_LOG/events.out.tfevents.1735568298.zjc-Precision-7920-Tower.1365081.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v7/logs/PlantLeave_LOG/events.out.tfevents.1735568369.zjc-Precision-7920-Tower.1365887.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/attention_data/Common_Yellowthroat_0058_190958.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/attention_data/Laysan_Albatross_0059_488.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/attention_data/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/attentions_vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/attentions_vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735806930.zjc-Precision-7920-Tower.1883428.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735807430.zjc-Precision-7920-Tower.1885132.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735807457.zjc-Precision-7920-Tower.1885460.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735828884.zjc-Precision-7920-Tower.1964992.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735828943.zjc-Precision-7920-Tower.1965441.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735829291.zjc-Precision-7920-Tower.1967261.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/logs/AgriculturalDisease_LOG/events.out.tfevents.1735829425.zjc-Precision-7920-Tower.1967982.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/models/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/models/modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/utils/data_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v8/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v8/utils/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewModel_v9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NewModel_v9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/.idea/SIM-Trans-main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/.idea/SIM-Trans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736141245.zjc-Precision-7920-Tower.42070.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736143556.zjc-Precision-7920-Tower.44319.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736143943.zjc-Precision-7920-Tower.45043.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736144672.zjc-Precision-7920-Tower.46356.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736146109.zjc-Precision-7920-Tower.48202.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736146684.zjc-Precision-7920-Tower.49270.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148183.zjc-Precision-7920-Tower.50984.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148234.zjc-Precision-7920-Tower.51289.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148274.zjc-Precision-7920-Tower.51583.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148301.zjc-Precision-7920-Tower.51942.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148332.zjc-Precision-7920-Tower.52299.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148569.zjc-Precision-7920-Tower.53456.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148599.zjc-Precision-7920-Tower.53797.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148658.zjc-Precision-7920-Tower.54394.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736148687.zjc-Precision-7920-Tower.54732.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736150724.zjc-Precision-7920-Tower.62785.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736150795.zjc-Precision-7920-Tower.63278.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736150895.zjc-Precision-7920-Tower.64029.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736150970.zjc-Precision-7920-Tower.64543.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736152023.zjc-Precision-7920-Tower.69045.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736152043.zjc-Precision-7920-Tower.69346.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736152351.zjc-Precision-7920-Tower.70750.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736152462.zjc-Precision-7920-Tower.71325.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736152508.zjc-Precision-7920-Tower.71808.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736161057.zjc-Precision-7920-Tower.121412.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736161269.zjc-Precision-7920-Tower.122861.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736161539.zjc-Precision-7920-Tower.124931.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736162080.zjc-Precision-7920-Tower.128493.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736162173.zjc-Precision-7920-Tower.129275.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736162335.zjc-Precision-7920-Tower.130506.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736162413.zjc-Precision-7920-Tower.131208.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736162484.zjc-Precision-7920-Tower.131857.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736162523.zjc-Precision-7920-Tower.132311.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736164787.zjc-Precision-7920-Tower.146225.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736164810.zjc-Precision-7920-Tower.146584.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736164909.zjc-Precision-7920-Tower.147492.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736164935.zjc-Precision-7920-Tower.147984.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736164975.zjc-Precision-7920-Tower.148461.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736164999.zjc-Precision-7920-Tower.148854.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165023.zjc-Precision-7920-Tower.149250.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165042.zjc-Precision-7920-Tower.149613.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165069.zjc-Precision-7920-Tower.150025.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165090.zjc-Precision-7920-Tower.150383.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165411.zjc-Precision-7920-Tower.152675.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165642.zjc-Precision-7920-Tower.154212.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165662.zjc-Precision-7920-Tower.154563.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165725.zjc-Precision-7920-Tower.155301.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165736.zjc-Precision-7920-Tower.155622.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165864.zjc-Precision-7920-Tower.156625.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165893.zjc-Precision-7920-Tower.157052.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165936.zjc-Precision-7920-Tower.157580.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165971.zjc-Precision-7920-Tower.158054.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736165991.zjc-Precision-7920-Tower.158430.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736166014.zjc-Precision-7920-Tower.158815.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736177659.zjc-Precision-7920-Tower.230068.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/logs/AgriculturalDisease_LOG/events.out.tfevents.1736177714.zjc-Precision-7920-Tower.230802.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/models/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/models/modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/output/results_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/output/results_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/output/results_train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/output/results_train.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/utils/data_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SIM-Trans/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SIM-Trans/utils/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT-softTriple/models/modeling.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT-softTriple/models/modeling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT-softTriple/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT-softTriple/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT-softTriple/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT-softTriple/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/TransFG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/logs/AgriculturalDisease_LOG/events.out.tfevents.1735742791.zjc-Precision-7920-Tower.1703172.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/logs/AgriculturalDisease_LOG/events.out.tfevents.1735742822.zjc-Precision-7920-Tower.1703507.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/logs/AgriculturalDisease_LOG/events.out.tfevents.1735745137.zjc-Precision-7920-Tower.1711152.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/logs/AgriculturalDisease_LOG/events.out.tfevents.1735795290.zjc-Precision-7920-Tower.1846263.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/logs/AgriculturalDisease_LOG/events.out.tfevents.1735797096.zjc-Precision-7920-Tower.1851549.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/logs/AppleLeaf9_LOG/events.out.tfevents.1735394406.zjc-Precision-7920-Tower.1302592.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/run.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT/run.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/utils/data_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT/utils/data_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ViT/utils/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ViT/utils/dataset.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2UTAEufJijMi08AYtW0DU1zQZ84" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.split_data.executor": "Run",
+    "Python.train.executor": "Run",
+    "Python.train_new.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/zjc/project/models/FFVT/train_new.py",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="train_new" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FFVT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="pytorch" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_new.py" />
+      <option name="PARAMETERS" value="--name AgriculturalDisease --dataset AgriculturalDisease --data_root $PROJECT_DIR$/../../dataset --model_type ViT-B_16 --pretrained_dir $PROJECT_DIR$/../../pretrained_models/ViT-B_16.npz --img_size 448 --learning_rate 2e-2 --num_epochs 20 --eval_every 400 --decay_type cosine --weight_decay 5e-5 --seed 222" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b67aea-0c0c-4ed2-b78b-819fdee71bbe" name="Changes" comment="" />
+      <created>1692953088544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692953088544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/../SIM-Trans" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/modeling.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/modeling.py</url>
+          <line>415</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
